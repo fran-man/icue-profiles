@@ -92,7 +92,7 @@
 																								<cereal_class_version>200</cereal_class_version>
 																								<base>
 																									<cereal_class_version>300</cereal_class_version>
-																									<name>Lighting Link 1 (1)</name>
+																									<name>Lighting Link 2</name>
 																									<keys size="dynamic"/>
 																									<enabled>true</enabled>
 																									<executionHints>
@@ -116,7 +116,7 @@
 																											<base>
 																												<cereal_class_version>300</cereal_class_version>
 																												<name></name>
-																												<id>{80d68c31-3acd-483b-9bb5-2169097f1ae4}</id>
+																												<id>{509cc660-d428-4fca-9c80-6ac4446f390c}</id>
 																												<duration>1000</duration>
 																												<brightness>10</brightness>
 																											</base>
@@ -874,7 +874,170 @@
 																							<id>2147483662</id>
 																							<data>
 																								<base>
-																									<name>Lighting Link 1</name>
+																									<name>Type Lighting 1</name>
+																									<keys size="dynamic">
+																										<value0>F3</value0>
+																										<value1>F6</value1>
+																										<value2>F5</value2>
+																										<value3>KeypadPeriodAndDelete</value3>
+																										<value4>Keypad4</value4>
+																										<value5>Keypad6</value5>
+																										<value6>Keypad5</value6>
+																										<value7>Keypad2</value7>
+																										<value8>Keypad1</value8>
+																										<value9>Keypad0</value9>
+																										<value10>Keypad3</value10>
+																										<value11>KeypadAsterisk</value11>
+																										<value12>KeypadSlash</value12>
+																										<value13>KeypadPlus</value13>
+																										<value14>KeypadMinus</value14>
+																										<value15>Keypad7</value15>
+																										<value16>KeypadEnter</value16>
+																										<value17>Keypad9</value17>
+																										<value18>Keypad8</value18>
+																										<value19>WinLock</value19>
+																										<value20>RightArrow</value20>
+																										<value21>Stop</value21>
+																										<value22>Mute</value22>
+																										<value23>PlayPause</value23>
+																										<value24>ScanPreviousTrack</value24>
+																										<value25>NumLock</value25>
+																										<value26>ScanNextTrack</value26>
+																										<value27>End</value27>
+																										<value28>Delete</value28>
+																										<value29>RightShift</value29>
+																										<value30>Key_Profile</value30>
+																										<value31>PageDown</value31>
+																										<value32>UpArrow</value32>
+																										<value33>RightCtrl</value33>
+																										<value34>DownArrow</value34>
+																										<value35>LeftArrow</value35>
+																										<value36>BracketRight</value36>
+																										<value37>Enter</value37>
+																										<value38>NonUsTilde</value38>
+																										<value39>EqualsAndPlus</value39>
+																										<value40>Backspace</value40>
+																										<value41>F12</value41>
+																										<value42>Brightness</value42>
+																										<value43>ScrollLock</value43>
+																										<value44>PrintScreen</value44>
+																										<value45>Insert</value45>
+																										<value46>PauseBreak</value46>
+																										<value47>PageUp</value47>
+																										<value48>Home</value48>
+																										<value49>Space</value49>
+																										<value50>RightGui</value50>
+																										<value51>RightAlt</value51>
+																										<value52>Application</value52>
+																										<value53>M</value53>
+																										<value54>N</value54>
+																										<value55>PeriodAndBiggerThan</value55>
+																										<value56>CommaAndLessThan</value56>
+																										<value57>LeftCtrl</value57>
+																										<value58>SlashAndQuestionMark</value58>
+																										<value59>LeftAlt</value59>
+																										<value60>LeftGui</value60>
+																										<value61>LeftShift</value61>
+																										<value62>ApostropheAndDoubleQuote</value62>
+																										<value63>Z</value63>
+																										<value64>NonUsBackslash</value64>
+																										<value65>C</value65>
+																										<value66>X</value66>
+																										<value67>B</value67>
+																										<value68>V</value68>
+																										<value69>F</value69>
+																										<value70>D</value70>
+																										<value71>H</value71>
+																										<value72>G</value72>
+																										<value73>K</value73>
+																										<value74>J</value74>
+																										<value75>SemicolonAndColon</value75>
+																										<value76>L</value76>
+																										<value77>I</value77>
+																										<value78>U</value78>
+																										<value79>P</value79>
+																										<value80>O</value80>
+																										<value81>CapsLock</value81>
+																										<value82>BracketLeft</value82>
+																										<value83>S</value83>
+																										<value84>A</value84>
+																										<value85>Tab</value85>
+																										<value86>MinusAndUnderscore</value86>
+																										<value87>W</value87>
+																										<value88>Q</value88>
+																										<value89>R</value89>
+																										<value90>E</value90>
+																										<value91>Y</value91>
+																										<value92>T</value92>
+																										<value93>4</value93>
+																										<value94>3</value94>
+																										<value95>6</value95>
+																										<value96>5</value96>
+																										<value97>8</value97>
+																										<value98>7</value98>
+																										<value99>0</value99>
+																										<value100>9</value100>
+																										<value101>F8</value101>
+																										<value102>F7</value102>
+																										<value103>F10</value103>
+																										<value104>F9</value104>
+																										<value105>GraveAccentAndTilde</value105>
+																										<value106>F11</value106>
+																										<value107>2</value107>
+																										<value108>1</value108>
+																										<value109>Escape</value109>
+																										<value110>Led_KeyboardTopLogo2</value110>
+																										<value111>F2</value111>
+																										<value112>Led_KeyboardTopLogo1</value112>
+																										<value113>F1</value113>
+																										<value114>F4</value114>
+																									</keys>
+																									<enabled>true</enabled>
+																									<executionHints>
+																										<startOnKeyPress>false</startOnKeyPress>
+																										<startWithProfile>true</startWithProfile>
+																										<stopOnKeyPress>false</stopOnKeyPress>
+																										<stopOnKeyRelease>false</stopOnKeyRelease>
+																										<stopAfterTimes>-1</stopAfterTimes>
+																										<playOption>Standard</playOption>
+																									</executionHints>
+																									<option>ConcreteLeds</option>
+																								</base>
+																								<lighting>
+																									<polymorphic_id>2147483669</polymorphic_id>
+																									<polymorphic_name>TypeLighting</polymorphic_name>
+																									<ptr_wrapper>
+																										<id>2147483663</id>
+																										<data>
+																											<cereal_class_version>300</cereal_class_version>
+																											<base>
+																												<name></name>
+																												<id>{eb5358f6-5c18-41a9-a235-8f3ad6b81431}</id>
+																												<duration>1000</duration>
+																												<brightness>10</brightness>
+																											</base>
+																											<colors>
+																												<first>4294902015</first>
+																												<second>4281467135</second>
+																											</colors>
+																											<random>false</random>
+																											<opacity>255</opacity>
+																											<speed>2</speed>
+																											<duration>2</duration>
+																											<typeLightingBehavior>1</typeLightingBehavior>
+																										</data>
+																									</ptr_wrapper>
+																								</lighting>
+																							</data>
+																						</ptr_wrapper>
+																					</value1>
+																					<value2>
+																						<polymorphic_id>4</polymorphic_id>
+																						<ptr_wrapper>
+																							<id>2147483664</id>
+																							<data>
+																								<base>
+																									<name>Copy of Lighting Link 1</name>
 																									<keys size="dynamic">
 																										<value0>Y</value0>
 																										<value1>U</value1>
@@ -1006,11 +1169,11 @@
 																								<lighting>
 																									<polymorphic_id>5</polymorphic_id>
 																									<ptr_wrapper>
-																										<id>2147483663</id>
+																										<id>2147483665</id>
 																										<data>
 																											<base>
 																												<name></name>
-																												<id>{6e0a79a8-ed7d-4838-9506-3f042ab8d9f5}</id>
+																												<id>{ad30cf25-881a-4a4f-af23-ee107d846dd6}</id>
 																												<duration>1000</duration>
 																												<brightness>10</brightness>
 																											</base>
@@ -1025,7 +1188,7 @@
 																								</lighting>
 																							</data>
 																						</ptr_wrapper>
-																					</value1>
+																					</value2>
 																				</layers>
 																			</base>
 																		</data>
@@ -1177,7 +1340,7 @@
 								</ptr_wrapper>
 							</value0>
 							<value1>
-								<polymorphic_id>2147483669</polymorphic_id>
+								<polymorphic_id>2147483670</polymorphic_id>
 								<polymorphic_name>BrightnessIndicatorProperty::Proxy</polymorphic_name>
 								<ptr_wrapper>
 									<valid>1</valid>
@@ -1263,7 +1426,7 @@
 								</ptr_wrapper>
 							</value3>
 							<value4>
-								<polymorphic_id>2147483670</polymorphic_id>
+								<polymorphic_id>2147483671</polymorphic_id>
 								<polymorphic_name>WinlockIndicatorProperty::Proxy</polymorphic_name>
 								<ptr_wrapper>
 									<valid>1</valid>
@@ -1305,7 +1468,7 @@
 								</ptr_wrapper>
 							</value4>
 							<value5>
-								<polymorphic_id>2147483671</polymorphic_id>
+								<polymorphic_id>2147483672</polymorphic_id>
 								<polymorphic_name>WinlockProperty</polymorphic_name>
 								<ptr_wrapper>
 									<valid>1</valid>
@@ -1362,7 +1525,7 @@
 								</ptr_wrapper>
 							</value6>
 							<value7>
-								<polymorphic_id>2147483672</polymorphic_id>
+								<polymorphic_id>2147483673</polymorphic_id>
 								<polymorphic_name>SideLightingProperty</polymorphic_name>
 								<ptr_wrapper>
 									<valid>1</valid>
@@ -1420,10 +1583,10 @@
 										<default_actions size="dynamic">
 											<value0>
 												<first>
-													<polymorphic_id>2147483673</polymorphic_id>
+													<polymorphic_id>2147483674</polymorphic_id>
 													<polymorphic_name>WinLockAction</polymorphic_name>
 													<ptr_wrapper>
-														<id>2147483664</id>
+														<id>2147483666</id>
 														<data>
 															<cereal_class_version>200</cereal_class_version>
 															<base>
@@ -1459,7 +1622,7 @@
 												<first>
 													<polymorphic_id>11</polymorphic_id>
 													<ptr_wrapper>
-														<id>2147483665</id>
+														<id>2147483667</id>
 														<data>
 															<base>
 																<name>Profile Switch M1</name>
@@ -1498,7 +1661,7 @@
 												<first>
 													<polymorphic_id>11</polymorphic_id>
 													<ptr_wrapper>
-														<id>2147483666</id>
+														<id>2147483668</id>
 														<data>
 															<base>
 																<name>Profile Switch M2</name>
@@ -1537,7 +1700,7 @@
 												<first>
 													<polymorphic_id>11</polymorphic_id>
 													<ptr_wrapper>
-														<id>2147483667</id>
+														<id>2147483669</id>
 														<data>
 															<base>
 																<name>Profile Switch M3</name>
@@ -1574,10 +1737,10 @@
 											</value3>
 											<value4>
 												<first>
-													<polymorphic_id>2147483674</polymorphic_id>
+													<polymorphic_id>2147483675</polymorphic_id>
 													<polymorphic_name>BrightnessAction</polymorphic_name>
 													<ptr_wrapper>
-														<id>2147483668</id>
+														<id>2147483670</id>
 														<data>
 															<cereal_class_version>200</cereal_class_version>
 															<base>
@@ -1612,10 +1775,10 @@
 											</value4>
 											<value5>
 												<first>
-													<polymorphic_id>2147483675</polymorphic_id>
+													<polymorphic_id>2147483676</polymorphic_id>
 													<polymorphic_name>MacroRecordingAction</polymorphic_name>
 													<ptr_wrapper>
-														<id>2147483669</id>
+														<id>2147483671</id>
 														<data>
 															<cereal_class_version>200</cereal_class_version>
 															<base>
@@ -1651,7 +1814,7 @@
 												<first>
 													<polymorphic_id>11</polymorphic_id>
 													<ptr_wrapper>
-														<id>2147483670</id>
+														<id>2147483672</id>
 														<data>
 															<base>
 																<name>Profile Switch Next</name>
@@ -1691,7 +1854,7 @@
 								</ptr_wrapper>
 							</value9>
 							<value10>
-								<polymorphic_id>2147483676</polymorphic_id>
+								<polymorphic_id>2147483677</polymorphic_id>
 								<polymorphic_name>MacroRecordingProperty</polymorphic_name>
 								<ptr_wrapper>
 									<valid>1</valid>
@@ -1704,7 +1867,7 @@
 								</ptr_wrapper>
 							</value10>
 							<value11>
-								<polymorphic_id>2147483677</polymorphic_id>
+								<polymorphic_id>2147483678</polymorphic_id>
 								<polymorphic_name>TouchpadPerformanceProperty</polymorphic_name>
 								<ptr_wrapper>
 									<valid>1</valid>
@@ -1719,7 +1882,7 @@
 								</ptr_wrapper>
 							</value11>
 							<value12>
-								<polymorphic_id>2147483678</polymorphic_id>
+								<polymorphic_id>2147483679</polymorphic_id>
 								<polymorphic_name>GesturesProperty</polymorphic_name>
 								<ptr_wrapper>
 									<valid>1</valid>
@@ -1732,10 +1895,10 @@
 												<value>
 													<first>Enabled</first>
 													<second>
-														<polymorphic_id>2147483679</polymorphic_id>
+														<polymorphic_id>2147483680</polymorphic_id>
 														<polymorphic_name>GestureAction</polymorphic_name>
 														<ptr_wrapper>
-															<id>2147483671</id>
+															<id>2147483673</id>
 															<data>
 																<cereal_class_version>301</cereal_class_version>
 																<base>
@@ -1769,9 +1932,9 @@
 												<value>
 													<first>Enabled</first>
 													<second>
-														<polymorphic_id>31</polymorphic_id>
+														<polymorphic_id>32</polymorphic_id>
 														<ptr_wrapper>
-															<id>2147483672</id>
+															<id>2147483674</id>
 															<data>
 																<base>
 																	<name></name>
@@ -1804,9 +1967,9 @@
 												<value>
 													<first>Enabled</first>
 													<second>
-														<polymorphic_id>31</polymorphic_id>
+														<polymorphic_id>32</polymorphic_id>
 														<ptr_wrapper>
-															<id>2147483673</id>
+															<id>2147483675</id>
 															<data>
 																<base>
 																	<name></name>
@@ -1839,9 +2002,9 @@
 												<value>
 													<first>Enabled</first>
 													<second>
-														<polymorphic_id>31</polymorphic_id>
+														<polymorphic_id>32</polymorphic_id>
 														<ptr_wrapper>
-															<id>2147483674</id>
+															<id>2147483676</id>
 															<data>
 																<base>
 																	<name></name>
@@ -1874,9 +2037,9 @@
 												<value>
 													<first>Enabled</first>
 													<second>
-														<polymorphic_id>31</polymorphic_id>
+														<polymorphic_id>32</polymorphic_id>
 														<ptr_wrapper>
-															<id>2147483675</id>
+															<id>2147483677</id>
 															<data>
 																<base>
 																	<name></name>
@@ -1909,9 +2072,9 @@
 												<value>
 													<first>Enabled</first>
 													<second>
-														<polymorphic_id>31</polymorphic_id>
+														<polymorphic_id>32</polymorphic_id>
 														<ptr_wrapper>
-															<id>2147483676</id>
+															<id>2147483678</id>
 															<data>
 																<base>
 																	<name></name>
@@ -1944,9 +2107,9 @@
 												<value>
 													<first>Enabled</first>
 													<second>
-														<polymorphic_id>31</polymorphic_id>
+														<polymorphic_id>32</polymorphic_id>
 														<ptr_wrapper>
-															<id>2147483677</id>
+															<id>2147483679</id>
 															<data>
 																<base>
 																	<name></name>
@@ -1979,9 +2142,9 @@
 												<value>
 													<first>Enabled</first>
 													<second>
-														<polymorphic_id>31</polymorphic_id>
+														<polymorphic_id>32</polymorphic_id>
 														<ptr_wrapper>
-															<id>2147483678</id>
+															<id>2147483680</id>
 															<data>
 																<base>
 																	<name></name>
@@ -2014,9 +2177,9 @@
 												<value>
 													<first>Enabled</first>
 													<second>
-														<polymorphic_id>31</polymorphic_id>
+														<polymorphic_id>32</polymorphic_id>
 														<ptr_wrapper>
-															<id>2147483679</id>
+															<id>2147483681</id>
 															<data>
 																<base>
 																	<name></name>
@@ -2049,9 +2212,9 @@
 												<value>
 													<first>Enabled</first>
 													<second>
-														<polymorphic_id>31</polymorphic_id>
+														<polymorphic_id>32</polymorphic_id>
 														<ptr_wrapper>
-															<id>2147483680</id>
+															<id>2147483682</id>
 															<data>
 																<base>
 																	<name></name>
@@ -2084,9 +2247,9 @@
 												<value>
 													<first>Enabled</first>
 													<second>
-														<polymorphic_id>31</polymorphic_id>
+														<polymorphic_id>32</polymorphic_id>
 														<ptr_wrapper>
-															<id>2147483681</id>
+															<id>2147483683</id>
 															<data>
 																<base>
 																	<name></name>
@@ -2119,9 +2282,9 @@
 												<value>
 													<first>Enabled</first>
 													<second>
-														<polymorphic_id>31</polymorphic_id>
+														<polymorphic_id>32</polymorphic_id>
 														<ptr_wrapper>
-															<id>2147483682</id>
+															<id>2147483684</id>
 															<data>
 																<base>
 																	<name></name>
@@ -2154,9 +2317,9 @@
 												<value>
 													<first>Enabled</first>
 													<second>
-														<polymorphic_id>31</polymorphic_id>
+														<polymorphic_id>32</polymorphic_id>
 														<ptr_wrapper>
-															<id>2147483683</id>
+															<id>2147483685</id>
 															<data>
 																<base>
 																	<name></name>
@@ -2189,9 +2352,9 @@
 												<value>
 													<first>Enabled</first>
 													<second>
-														<polymorphic_id>31</polymorphic_id>
+														<polymorphic_id>32</polymorphic_id>
 														<ptr_wrapper>
-															<id>2147483684</id>
+															<id>2147483686</id>
 															<data>
 																<base>
 																	<name></name>
@@ -2224,9 +2387,9 @@
 												<value>
 													<first>Enabled</first>
 													<second>
-														<polymorphic_id>31</polymorphic_id>
+														<polymorphic_id>32</polymorphic_id>
 														<ptr_wrapper>
-															<id>2147483685</id>
+															<id>2147483687</id>
 															<data>
 																<base>
 																	<name></name>
@@ -2259,9 +2422,9 @@
 												<value>
 													<first>Enabled</first>
 													<second>
-														<polymorphic_id>31</polymorphic_id>
+														<polymorphic_id>32</polymorphic_id>
 														<ptr_wrapper>
-															<id>2147483686</id>
+															<id>2147483688</id>
 															<data>
 																<base>
 																	<name></name>
@@ -2294,9 +2457,9 @@
 												<value>
 													<first>Enabled</first>
 													<second>
-														<polymorphic_id>31</polymorphic_id>
+														<polymorphic_id>32</polymorphic_id>
 														<ptr_wrapper>
-															<id>2147483687</id>
+															<id>2147483689</id>
 															<data>
 																<base>
 																	<name></name>
@@ -2329,9 +2492,9 @@
 												<value>
 													<first>Enabled</first>
 													<second>
-														<polymorphic_id>31</polymorphic_id>
+														<polymorphic_id>32</polymorphic_id>
 														<ptr_wrapper>
-															<id>2147483688</id>
+															<id>2147483690</id>
 															<data>
 																<base>
 																	<name></name>
@@ -2364,7 +2527,7 @@
 								</ptr_wrapper>
 							</value12>
 							<value13>
-								<polymorphic_id>2147483680</polymorphic_id>
+								<polymorphic_id>2147483681</polymorphic_id>
 								<polymorphic_name>JoystickPerformanceProperty</polymorphic_name>
 								<ptr_wrapper>
 									<valid>1</valid>
@@ -2429,7 +2592,7 @@
 																					<value0>
 																						<polymorphic_id>4</polymorphic_id>
 																						<ptr_wrapper>
-																							<id>2147483689</id>
+																							<id>2147483691</id>
 																							<data>
 																								<base>
 																									<name>Blink</name>
@@ -2446,10 +2609,10 @@
 																									<option>AllLeds</option>
 																								</base>
 																								<lighting>
-																									<polymorphic_id>2147483681</polymorphic_id>
+																									<polymorphic_id>2147483682</polymorphic_id>
 																									<polymorphic_name>BlinkLighting</polymorphic_name>
 																									<ptr_wrapper>
-																										<id>2147483690</id>
+																										<id>2147483692</id>
 																										<data>
 																											<cereal_class_version>300</cereal_class_version>
 																											<base>
@@ -2482,7 +2645,7 @@
 								</ptr_wrapper>
 							</value0>
 							<value1>
-								<polymorphic_id>2147483682</polymorphic_id>
+								<polymorphic_id>2147483683</polymorphic_id>
 								<polymorphic_name>PresetsProperty</polymorphic_name>
 								<ptr_wrapper>
 									<valid>1</valid>
@@ -2494,7 +2657,7 @@
 										<presets size="dynamic">
 											<value0>
 												<ptr_wrapper>
-													<id>2147483691</id>
+													<id>2147483693</id>
 													<data>
 														<cereal_class_version>201</cereal_class_version>
 														<id>{df65cb3e-f06b-49e4-9376-adba2c0caf6e}</id>
@@ -2518,7 +2681,7 @@
 											</value0>
 											<value1>
 												<ptr_wrapper>
-													<id>2147483692</id>
+													<id>2147483694</id>
 													<data>
 														<id>{c1d3947b-493e-42c6-9503-dd63d6c40012}</id>
 														<name>Movie Theater</name>
@@ -2541,7 +2704,7 @@
 											</value1>
 											<value2>
 												<ptr_wrapper>
-													<id>2147483693</id>
+													<id>2147483695</id>
 													<data>
 														<id>{138c0b33-bc2c-42ff-96c8-190328221a5a}</id>
 														<name>FPS Competition</name>
@@ -2564,7 +2727,7 @@
 											</value2>
 											<value3>
 												<ptr_wrapper>
-													<id>2147483694</id>
+													<id>2147483696</id>
 													<data>
 														<id>{861c1fd2-fafa-485c-ae46-64fe006e583f}</id>
 														<name>Clear Chat</name>
@@ -2587,7 +2750,7 @@
 											</value3>
 											<value4>
 												<ptr_wrapper>
-													<id>2147483695</id>
+													<id>2147483697</id>
 													<data>
 														<id>{ace12c08-a7e1-4a87-8110-555e383ce327}</id>
 														<name>Bass Boost</name>
@@ -2620,7 +2783,7 @@
 								</ptr_wrapper>
 							</value1>
 							<value2>
-								<polymorphic_id>2147483683</polymorphic_id>
+								<polymorphic_id>2147483684</polymorphic_id>
 								<polymorphic_name>DolbyProperty</polymorphic_name>
 								<ptr_wrapper>
 									<valid>1</valid>
@@ -2669,7 +2832,7 @@
 								</ptr_wrapper>
 							</value3>
 							<value4>
-								<polymorphic_id>2147483684</polymorphic_id>
+								<polymorphic_id>2147483685</polymorphic_id>
 								<polymorphic_name>IndicatorBrightnessProperty</polymorphic_name>
 								<ptr_wrapper>
 									<valid>1</valid>
@@ -2690,10 +2853,10 @@
 										<default_actions size="dynamic">
 											<value0>
 												<first>
-													<polymorphic_id>2147483685</polymorphic_id>
+													<polymorphic_id>2147483686</polymorphic_id>
 													<polymorphic_name>EqPresetSwitchingAction</polymorphic_name>
 													<ptr_wrapper>
-														<id>2147483696</id>
+														<id>2147483698</id>
 														<data>
 															<cereal_class_version>200</cereal_class_version>
 															<base>
@@ -2727,10 +2890,10 @@
 											</value0>
 											<value1>
 												<first>
-													<polymorphic_id>2147483686</polymorphic_id>
+													<polymorphic_id>2147483687</polymorphic_id>
 													<polymorphic_name>DolbyStateChangeAction</polymorphic_name>
 													<ptr_wrapper>
-														<id>2147483697</id>
+														<id>2147483699</id>
 														<data>
 															<cereal_class_version>200</cereal_class_version>
 															<base>
@@ -2764,10 +2927,10 @@
 											</value1>
 											<value2>
 												<first>
-													<polymorphic_id>2147483687</polymorphic_id>
+													<polymorphic_id>2147483688</polymorphic_id>
 													<polymorphic_name>MicMuteAction</polymorphic_name>
 													<ptr_wrapper>
-														<id>2147483698</id>
+														<id>2147483700</id>
 														<data>
 															<cereal_class_version>200</cereal_class_version>
 															<base>
@@ -2801,10 +2964,10 @@
 											</value2>
 											<value3>
 												<first>
-													<polymorphic_id>2147483688</polymorphic_id>
+													<polymorphic_id>2147483689</polymorphic_id>
 													<polymorphic_name>SidetoneMuteAction</polymorphic_name>
 													<ptr_wrapper>
-														<id>2147483699</id>
+														<id>2147483701</id>
 														<data>
 															<cereal_class_version>200</cereal_class_version>
 															<base>
@@ -2841,7 +3004,7 @@
 								</ptr_wrapper>
 							</value5>
 							<value6>
-								<polymorphic_id>2147483689</polymorphic_id>
+								<polymorphic_id>2147483690</polymorphic_id>
 								<polymorphic_name>SidetoneProperty</polymorphic_name>
 								<ptr_wrapper>
 									<valid>1</valid>
@@ -2854,7 +3017,7 @@
 								</ptr_wrapper>
 							</value6>
 							<value7>
-								<polymorphic_id>2147483690</polymorphic_id>
+								<polymorphic_id>2147483691</polymorphic_id>
 								<polymorphic_name>BatteryProperty</polymorphic_name>
 								<ptr_wrapper>
 									<valid>1</valid>
@@ -2866,7 +3029,7 @@
 								</ptr_wrapper>
 							</value7>
 							<value8>
-								<polymorphic_id>2147483691</polymorphic_id>
+								<polymorphic_id>2147483692</polymorphic_id>
 								<polymorphic_name>MicrophoneProperty</polymorphic_name>
 								<ptr_wrapper>
 									<valid>1</valid>
@@ -2917,7 +3080,50 @@
 																		<data>
 																			<base>
 																				<base/>
-																				<layers size="dynamic"/>
+																				<layers size="dynamic">
+																					<value0>
+																						<polymorphic_id>4</polymorphic_id>
+																						<ptr_wrapper>
+																							<id>2147483702</id>
+																							<data>
+																								<base>
+																									<name>Lighting Link 1</name>
+																									<keys size="dynamic"/>
+																									<enabled>true</enabled>
+																									<executionHints>
+																										<startOnKeyPress>false</startOnKeyPress>
+																										<startWithProfile>true</startWithProfile>
+																										<stopOnKeyPress>false</stopOnKeyPress>
+																										<stopOnKeyRelease>false</stopOnKeyRelease>
+																										<stopAfterTimes>-1</stopAfterTimes>
+																										<playOption>Standard</playOption>
+																									</executionHints>
+																									<option>AllLeds</option>
+																								</base>
+																								<lighting>
+																									<polymorphic_id>5</polymorphic_id>
+																									<ptr_wrapper>
+																										<id>2147483703</id>
+																										<data>
+																											<base>
+																												<name></name>
+																												<id>{c573d995-14d9-451e-a9ea-86108275425a}</id>
+																												<duration>1000</duration>
+																												<brightness>10</brightness>
+																											</base>
+																											<layer>
+																												<polymorphic_id>1073741824</polymorphic_id>
+																												<ptr_wrapper>
+																													<id>3</id>
+																												</ptr_wrapper>
+																											</layer>
+																										</data>
+																									</ptr_wrapper>
+																								</lighting>
+																							</data>
+																						</ptr_wrapper>
+																					</value0>
+																				</layers>
 																			</base>
 																		</data>
 																	</ptr_wrapper>
@@ -3062,7 +3268,7 @@
 								</ptr_wrapper>
 							</value0>
 							<value1>
-								<polymorphic_id>34</polymorphic_id>
+								<polymorphic_id>35</polymorphic_id>
 								<ptr_wrapper>
 									<valid>1</valid>
 									<data>
@@ -3072,7 +3278,7 @@
 										<presets size="dynamic">
 											<value0>
 												<ptr_wrapper>
-													<id>2147483700</id>
+													<id>2147483704</id>
 													<data>
 														<id>{df65cb3e-f06b-49e4-9376-adba2c0caf6e}</id>
 														<name>Pure Direct</name>
@@ -3095,7 +3301,7 @@
 											</value0>
 											<value1>
 												<ptr_wrapper>
-													<id>2147483701</id>
+													<id>2147483705</id>
 													<data>
 														<id>{c1d3947b-493e-42c6-9503-dd63d6c40012}</id>
 														<name>Movie Theater</name>
@@ -3118,7 +3324,7 @@
 											</value1>
 											<value2>
 												<ptr_wrapper>
-													<id>2147483702</id>
+													<id>2147483706</id>
 													<data>
 														<id>{138c0b33-bc2c-42ff-96c8-190328221a5a}</id>
 														<name>FPS Competition</name>
@@ -3141,7 +3347,7 @@
 											</value2>
 											<value3>
 												<ptr_wrapper>
-													<id>2147483703</id>
+													<id>2147483707</id>
 													<data>
 														<id>{861c1fd2-fafa-485c-ae46-64fe006e583f}</id>
 														<name>Clear Chat</name>
@@ -3164,7 +3370,7 @@
 											</value3>
 											<value4>
 												<ptr_wrapper>
-													<id>2147483704</id>
+													<id>2147483708</id>
 													<data>
 														<id>{ace12c08-a7e1-4a87-8110-555e383ce327}</id>
 														<name>Bass Boost</name>
@@ -3197,7 +3403,7 @@
 								</ptr_wrapper>
 							</value1>
 							<value2>
-								<polymorphic_id>35</polymorphic_id>
+								<polymorphic_id>36</polymorphic_id>
 								<ptr_wrapper>
 									<valid>1</valid>
 									<data>
@@ -3207,7 +3413,7 @@
 								</ptr_wrapper>
 							</value2>
 							<value3>
-								<polymorphic_id>41</polymorphic_id>
+								<polymorphic_id>42</polymorphic_id>
 								<ptr_wrapper>
 									<valid>1</valid>
 									<data>
@@ -3259,7 +3465,7 @@
 								</ptr_wrapper>
 							</value4>
 							<value5>
-								<polymorphic_id>43</polymorphic_id>
+								<polymorphic_id>44</polymorphic_id>
 								<ptr_wrapper>
 									<valid>1</valid>
 									<data>
@@ -3438,7 +3644,7 @@
 					<value>
 						<properties size="dynamic">
 							<value0>
-								<polymorphic_id>2147483692</polymorphic_id>
+								<polymorphic_id>2147483693</polymorphic_id>
 								<polymorphic_name>TemperatureAlertProperty</polymorphic_name>
 								<ptr_wrapper>
 									<valid>1</valid>
@@ -3451,7 +3657,7 @@
 								</ptr_wrapper>
 							</value0>
 							<value1>
-								<polymorphic_id>2147483693</polymorphic_id>
+								<polymorphic_id>2147483694</polymorphic_id>
 								<polymorphic_name>OSDProperty</polymorphic_name>
 								<ptr_wrapper>
 									<valid>1</valid>
@@ -3465,7 +3671,7 @@
 								</ptr_wrapper>
 							</value1>
 							<value2>
-								<polymorphic_id>2147483694</polymorphic_id>
+								<polymorphic_id>2147483695</polymorphic_id>
 								<polymorphic_name>AllDevicesCoolingProperty</polymorphic_name>
 								<ptr_wrapper>
 									<valid>1</valid>
@@ -3479,7 +3685,7 @@
 								</ptr_wrapper>
 							</value2>
 							<value3>
-								<polymorphic_id>2147483695</polymorphic_id>
+								<polymorphic_id>2147483696</polymorphic_id>
 								<polymorphic_name>LightingLinkProperty</polymorphic_name>
 								<ptr_wrapper>
 									<valid>1</valid>
@@ -3498,7 +3704,7 @@
 								</ptr_wrapper>
 							</value3>
 							<value4>
-								<polymorphic_id>2147483696</polymorphic_id>
+								<polymorphic_id>2147483697</polymorphic_id>
 								<polymorphic_name>XDLProfileProperty</polymorphic_name>
 								<ptr_wrapper>
 									<valid>1</valid>
@@ -3512,7 +3718,7 @@
 										<layer>
 											<polymorphic_id>1073741824</polymorphic_id>
 											<ptr_wrapper>
-												<id>2147483705</id>
+												<id>2147483709</id>
 												<data>
 													<cereal_class_version>200</cereal_class_version>
 													<base>
@@ -3698,7 +3904,7 @@
 								</ptr_wrapper>
 							</value1>
 							<value2>
-								<polymorphic_id>2147483697</polymorphic_id>
+								<polymorphic_id>2147483698</polymorphic_id>
 								<polymorphic_name>CoolingConfigurationProperty::Proxy</polymorphic_name>
 								<ptr_wrapper>
 									<valid>1</valid>
@@ -3717,7 +3923,7 @@
 					<value>
 						<properties size="dynamic">
 							<value0>
-								<polymorphic_id>49</polymorphic_id>
+								<polymorphic_id>50</polymorphic_id>
 								<ptr_wrapper>
 									<valid>1</valid>
 									<data>
@@ -3785,7 +3991,7 @@
 								</ptr_wrapper>
 							</value1>
 							<value2>
-								<polymorphic_id>49</polymorphic_id>
+								<polymorphic_id>50</polymorphic_id>
 								<ptr_wrapper>
 									<valid>1</valid>
 									<data>
@@ -3825,7 +4031,7 @@
 					<value>
 						<polymorphic_id>1073741824</polymorphic_id>
 						<ptr_wrapper>
-							<id>2147483706</id>
+							<id>2147483710</id>
 							<data>
 								<cereal_class_version>201</cereal_class_version>
 								<enabled>true</enabled>
@@ -3842,7 +4048,7 @@
 					<value>
 						<polymorphic_id>1073741824</polymorphic_id>
 						<ptr_wrapper>
-							<id>2147483707</id>
+							<id>2147483711</id>
 							<data>
 								<enabled>true</enabled>
 								<independent>false</independent>
@@ -3858,7 +4064,7 @@
 					<value>
 						<polymorphic_id>1073741824</polymorphic_id>
 						<ptr_wrapper>
-							<id>2147483708</id>
+							<id>2147483712</id>
 							<data>
 								<enabled>true</enabled>
 								<independent>false</independent>
@@ -3874,7 +4080,7 @@
 					<value>
 						<polymorphic_id>1073741824</polymorphic_id>
 						<ptr_wrapper>
-							<id>2147483709</id>
+							<id>2147483713</id>
 							<data>
 								<enabled>false</enabled>
 								<independent>false</independent>
@@ -3890,7 +4096,7 @@
 					<value>
 						<polymorphic_id>1073741824</polymorphic_id>
 						<ptr_wrapper>
-							<id>2147483710</id>
+							<id>2147483714</id>
 							<data>
 								<enabled>false</enabled>
 								<independent>false</independent>
@@ -3906,7 +4112,7 @@
 					<value>
 						<polymorphic_id>1073741824</polymorphic_id>
 						<ptr_wrapper>
-							<id>2147483711</id>
+							<id>2147483715</id>
 							<data>
 								<enabled>true</enabled>
 								<independent>false</independent>
@@ -3924,7 +4130,7 @@
 			<isDefault>true</isDefault>
 		</dpiMode>
 		<dpiModeAdditional>
-			<id>{765ffaaf-37d8-44c2-9c38-cd3990206a6d}</id>
+			<id>{a5357971-cc9d-4422-af69-a2c4762ee3d5}</id>
 			<name></name>
 			<settings size="dynamic"/>
 			<active>false</active>
